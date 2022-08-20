@@ -12,3 +12,7 @@ button:hover {
     cursor: pointer;
     outline: 0;
 }
+
+.buttons-panel span {
+    margin-left: 5px;
+}

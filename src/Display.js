@@ -4,7 +4,7 @@ import './Display.css';
 
 function Display(props) {
     return (
-            <span className={`value ${(props.displayValue <= 5) ? 'blue' : 'red'}`}>
+            <span className="value">
                 {props.displayValue}
             </span> 
     )

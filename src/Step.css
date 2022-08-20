@@ -1,0 +1,9 @@
+.counter h4 {
+    font-size: 15px;
+    color: blue;
+}
+
+.step-input {
+    width: 50px;
+    margin-left: 10px;
+}

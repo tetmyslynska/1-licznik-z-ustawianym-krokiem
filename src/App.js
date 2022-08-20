@@ -13,7 +13,7 @@ function App() {
         </h1>
       </header>
       <Counter initValue={0}/>
-      <Counter initValue={108}/>
+    
 
     </div>
   );
